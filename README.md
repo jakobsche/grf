@@ -1,0 +1,2 @@
+# grf
+Ganzrationale Funktion konstruieren
